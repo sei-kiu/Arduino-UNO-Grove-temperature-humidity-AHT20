@@ -15,4 +15,4 @@ Libraries used
 - https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight/releases/tag/1.0.0
 - https://github.com/Seeed-Studio/Seeed_Arduino_AHT20/releases/tag/v1.0.0
 
-This example shows how to get data from the AHT20 sensor and display the output.
+This example shows how to get data from the AHT20 sensor and display the output on the LCD.
